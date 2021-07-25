@@ -6,7 +6,7 @@ Snowflake 算法产生于 Twitter 的高并发场景下，其需要为每秒上�
 
 首位 bit 不可用，是因为二进制里第一个 bit 为如果是 1，那么都是负数，但是我们生成的 id 都是正数，所以第一个 bit 统一都是 0。除了最高位 bit 标记为不可用以外，其余三组 bit 占位均可浮动，看具体的业务需求而定。默认情况下 41bit 的时间戳可以支持该算法使用到 2082 年，10bit 的工作机器 id 可以支持 1023 台机器，序列号支持 1 毫秒产生 4095 个自增序列 id。由此也可看出，Snowflake 限制 workid 最多能有 1024，也就是说，应用规模不能超过 1024；虽然可以进行细微的调整，但是总是有数量的限制。
 
-在[关系型数据库理论 https://url.wx-coder.cn/DJNQn ](https://url.wx-coder.cn/DJNQn)一文中，我们也讨论了该算法的作用。
+在《[Database-Series](https://github.com/wx-chevalier/Database-Series?q=)》一文中，我们也讨论了该算法的作用。
 
 # 时间戳
 

@@ -4,7 +4,7 @@ HDFS 开创性地设计出一套文件存储方式，即对文件分割后分别
 
 # Quick Start
 
-HDFS 基本命令 :
+HDFS 基本命令
 
 hadoop fs -cmd
 

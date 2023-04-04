@@ -1,20 +1,18 @@
   - [1 1.存储基础 [1]](/1.存储基础/README.md)
     - [1.1 BFT](/1.存储基础/BFT/README.md)
       
-  - [2 10.配置中心 [5]](/10.配置中心/README.md)
-    - [2.1 Consul](/10.配置中心/Consul/README.md)
+  - [2 10.KV 存储 [4]](/10.KV%20存储/README.md)
+    - [2.1 Consul](/10.KV%20存储/Consul/README.md)
       
-    - [2.2 Etcd](/10.配置中心/Etcd/README.md)
+    - [2.2 Etcd](/10.KV%20存储/Etcd/README.md)
       
-    - [2.3 Nacos [1]](/10.配置中心/Nacos/README.md)
-      - [2.3.1 服务注册与发现](/10.配置中心/Nacos/服务注册与发现.md)
-    - [2.4 ZooKeeper [4]](/10.配置中心/ZooKeeper/README.md)
-      - [2.4.1 ZAB](/10.配置中心/ZooKeeper/ZAB.md)
-      - [2.4.2 数据操作](/10.配置中心/ZooKeeper/数据操作.md)
-      - [2.4.3 架构原理](/10.配置中心/ZooKeeper/架构原理.md)
-      - [2.4.4 部署与配置](/10.配置中心/ZooKeeper/部署与配置.md)
-    - 2.5 配置方式对比 [1]
-      - [2.5.1 基础配置方式](/10.配置中心/配置方式对比/基础配置方式.md)
+    - [2.3 ZooKeeper [4]](/10.KV%20存储/ZooKeeper/README.md)
+      - [2.3.1 ZAB](/10.KV%20存储/ZooKeeper/ZAB.md)
+      - [2.3.2 数据操作](/10.KV%20存储/ZooKeeper/数据操作.md)
+      - [2.3.3 架构原理](/10.KV%20存储/ZooKeeper/架构原理.md)
+      - [2.3.4 部署与配置](/10.KV%20存储/ZooKeeper/部署与配置.md)
+    - 2.4 配置方式对比 [1]
+      - [2.4.1 基础配置方式](/10.KV%20存储/配置方式对比/基础配置方式.md)
   - [3 2.复制 [3]](/2.复制/README.md)
     - [3.1 主从复制 [4]](/2.复制/主从复制/README.md)
       - [3.1.1 同步与异步](/2.复制/主从复制/同步与异步.md)

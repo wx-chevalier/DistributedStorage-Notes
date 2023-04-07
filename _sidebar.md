@@ -6,11 +6,18 @@
       
     - [2.2 Etcd](/10.KV%20存储/Etcd/README.md)
       
-    - [2.3 ZooKeeper [4]](/10.KV%20存储/ZooKeeper/README.md)
-      - [2.3.1 ZAB](/10.KV%20存储/ZooKeeper/ZAB.md)
-      - [2.3.2 数据操作](/10.KV%20存储/ZooKeeper/数据操作.md)
-      - [2.3.3 架构原理](/10.KV%20存储/ZooKeeper/架构原理.md)
-      - [2.3.4 部署与配置](/10.KV%20存储/ZooKeeper/部署与配置.md)
+    - [2.3 ZooKeeper [3]](/10.KV%20存储/ZooKeeper/README.md)
+      - 2.3.1 基础概念 [3]
+        - [2.3.1.1 ZAB](/10.KV%20存储/ZooKeeper/基础概念/ZAB.md)
+        - [2.3.1.2 应用场景](/10.KV%20存储/ZooKeeper/基础概念/应用场景.md)
+        - [2.3.1.3 核心角色](/10.KV%20存储/ZooKeeper/基础概念/核心角色.md)
+      - 2.3.2 架构原理 [1]
+        - [2.3.2.1 架构原理](/10.KV%20存储/ZooKeeper/架构原理/架构原理.md)
+      - 2.3.3 部署与操作 [4]
+        - [2.3.3.1 ACL](/10.KV%20存储/ZooKeeper/部署与操作/ACL.md)
+        - [2.3.3.2 Apache Curator](/10.KV%20存储/ZooKeeper/部署与操作/Apache%20Curator.md)
+        - [2.3.3.3 数据操作](/10.KV%20存储/ZooKeeper/部署与操作/数据操作.md)
+        - [2.3.3.4 部署与配置](/10.KV%20存储/ZooKeeper/部署与操作/部署与配置.md)
     - 2.4 配置方式对比 [1]
       - [2.4.1 基础配置方式](/10.KV%20存储/配置方式对比/基础配置方式.md)
   - [3 2.复制 [3]](/2.复制/README.md)

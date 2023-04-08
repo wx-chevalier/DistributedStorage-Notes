@@ -28,8 +28,8 @@
       - [3.1.4 宕机恢复](/2.复制/主从复制/宕机恢复.md)
     - [3.2 多主复制 [3]](/2.复制/多主复制/README.md)
       - [3.2.1 CRDT [1]](/2.复制/多主复制/CRDT/README.md)
-        - 3.2.1.1 999.参考资料 [1]
-          - [3.2.1.1.1 A Gentle Introduction to CRDTs](/2.复制/多主复制/CRDT/999.参考资料/2023-A%20Gentle%20Introduction%20to%20CRDTs.md)
+        - 3.2.1.1 99.参考资料 [1]
+          - [3.2.1.1.1 A Gentle Introduction to CRDTs](/2.复制/多主复制/CRDT/99.参考资料/2023-A%20Gentle%20Introduction%20to%20CRDTs.md)
       - [3.2.2 冲突解决](/2.复制/多主复制/冲突解决.md)
       - [3.2.3 多主复制拓扑](/2.复制/多主复制/多主复制拓扑.md)
     - [3.3 无主复制 [2]](/2.复制/无主复制/README.md)

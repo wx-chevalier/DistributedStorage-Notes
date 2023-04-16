@@ -22,7 +22,7 @@
   </p>
 </p>
 
-![](https://i.postimg.cc/Z56JHk17/image.png)
+![](https://assets.ng-tech.icu/item/20230416204546.png)
 
 # 分布式存储
 

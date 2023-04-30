@@ -1,3 +1,3 @@
 # HDFS
 
-![](https://i.postimg.cc/GhmVHR43/image.png)
+![HDFS Architecture](https://assets.ng-tech.icu/item/20230430222711.png)

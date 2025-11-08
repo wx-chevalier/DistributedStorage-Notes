@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier/DistributedSystem-Notes">
-    <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
@@ -22,7 +22,7 @@
   </p>
 </p>
 
-![](https://assets.ng-tech.icu/item/20230416204546.png)
+![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230416204546.png)
 
 # 分布式存储
 

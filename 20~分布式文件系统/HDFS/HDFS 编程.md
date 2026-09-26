@@ -68,12 +68,6 @@ public class TestHDFSFile {
 
     hdfs.rename(frpath, topath);
 
-    FileStatus files[] = hdfs.listStatus(dst);
-    for (FileStatus file : files) {
-      System.out.println(file.getPath());
-    }
-  }
-
   // 刪除HDFS文件
   public void testDel() throws Exception {
     Configuration conf = new Configuration();
@@ -85,12 +79,6 @@ public class TestHDFSFile {
 
     boolean ok = hdfs.delete(topath, false);
     System.out.println(ok ? "删除成功" : "删除失败");
-
-    FileStatus files[] = hdfs.listStatus(dst);
-    for (FileStatus file : files) {
-      System.out.println(file.getPath());
-    }
-  }
 
   // 查看HDFS文件的最后修改时间
   public void testgetModifyTime() throws Exception {
